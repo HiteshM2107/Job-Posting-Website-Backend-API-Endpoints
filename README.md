@@ -36,3 +36,5 @@ The description of the end points are as follows-
 </li>
 
 </ul>
+
+The screenshots of the database have been attached and one of each- candidate, job and candidate have been shown for a clearer picture about the schema of the entities.
